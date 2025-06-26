@@ -17,3 +17,27 @@ Implement security best practices
  Containerization: Docker
  CI/CD: GitHub Actions
  API Query Language: GraphQL 
+
+ ## Team Roles
+
+Backend Developer
+Responsible for building the core server-side logic, APIs, and database interactions using Django.
+
+Database Administrator
+Designs and manages the MySQL database schema, ensuring data integrity and performance.
+
+QA Engineer
+Tests the application for bugs and vulnerabilities, ensuring new updates don’t break existing features.
+
+DevOps / CI/CD Engineer
+Sets up Docker and GitHub Actions to automate testing and deployment workflows.
+
+Security Engineer
+Implements best practices for authentication, access control, and secure data handling.
+
+Technical Writer
+Creates developer and user documentation including API references and setup guides.
+
+Project Manager
+Coordinates timelines, assigns tasks, and ensures team collaboration stays on track.
+
