@@ -18,26 +18,38 @@ Implement security best practices
  CI/CD: GitHub Actions
  API Query Language: GraphQL 
 
- ## team roles
+## 👥 Team Roles
 
-Backend Developer
-Responsible for building the core server-side logic, APIs, and database interactions using Django.
+Below are the key roles in our project team, along with their responsibilities:
 
-Database Administrator
-Designs and manages the MySQL database schema, ensuring data integrity and performance.
+### 🧠 Project Manager
+- Oversees the entire project.
+- Ensures timelines are met, manages communication between team members, and handles project risks.
 
-QA Engineer
-Tests the application for bugs and vulnerabilities, ensuring new updates don’t break existing features.
+### 🖥️ Backend Developer
+- Builds and maintains the server-side logic of the application.
+- Integrates databases, APIs, and ensures secure, scalable backend architecture.
 
-DevOps / CI/CD Engineer
-Sets up Docker and GitHub Actions to automate testing and deployment workflows.
+### 🎨 Frontend Developer
+- Creates the user interface and user experience using web technologies.
+- Works closely with designers to implement responsive and interactive features.
 
-Security Engineer
-Implements best practices for authentication, access control, and secure data handling.
+### 🗄️ Database Administrator (DBA)
+- Designs and manages the project's database.
+- Ensures data integrity, performance, and backup strategies.
 
-Technical Writer
-Creates developer and user documentation including API references and setup guides.
+### 🧪 QA Tester
+- Tests the application for bugs and usability issues.
+- Writes test cases and ensures the product meets quality standards.
 
-Project Manager
-Coordinates timelines, assigns tasks, and ensures team collaboration stays on track.
+### ☁️ DevOps Engineer
+- Manages deployment, CI/CD pipelines, and server infrastructure.
+- Ensures smooth integration and delivery of code from development to production.
 
+### 📄 Business Analyst
+- Gathers project requirements from stakeholders.
+- Translates business needs into technical documentation for the development team.
+
+### 🔒 Security Specialist
+- Reviews and implements security best practices.
+- Protects the application and data from unauthorized access and vulnerabilities.
