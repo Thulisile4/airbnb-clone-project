@@ -18,7 +18,7 @@ Implement security best practices
  CI/CD: GitHub Actions
  API Query Language: GraphQL 
 
- ## Team Roles
+ ## team roles
 
 Backend Developer
 Responsible for building the core server-side logic, APIs, and database interactions using Django.
